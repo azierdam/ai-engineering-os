@@ -1,0 +1,52 @@
+[
+  {
+    "module": "Foundation",
+    "title": "Initialize PFL Project",
+    "priority": "High"
+  },
+  {
+    "module": "Transaction",
+    "title": "Transaction CRUD",
+    "priority": "High"
+  },
+  {
+    "module": "Account",
+    "title": "Account CRUD",
+    "priority": "High"
+  },
+  {
+    "module": "Category",
+    "title": "Category Management",
+    "priority": "High"
+  },
+  {
+    "module": "Budget",
+    "title": "Budget Management",
+    "priority": "High"
+  },
+  {
+    "module": "Import",
+    "title": "Excel Import",
+    "priority": "High"
+  },
+  {
+    "module": "Dashboard",
+    "title": "Dashboard Summary",
+    "priority": "Medium"
+  },
+  {
+    "module": "Report",
+    "title": "Monthly Financial Report",
+    "priority": "Medium"
+  },
+  {
+    "module": "Configuration",
+    "title": "Application Settings",
+    "priority": "Low"
+  },
+  {
+    "module": "Deployment",
+    "title": "Production Readiness Checklist",
+    "priority": "High"
+  }
+]
