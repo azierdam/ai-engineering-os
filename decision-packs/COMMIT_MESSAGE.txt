@@ -1,0 +1,5 @@
+docs(ai-eos): freeze Decision Pack DP-2026-07-16-AI-EOS-v1
+
+- Freeze AI-EOS v1 architecture
+- Add ADRs, architecture, standards, workflows
+- Establish Decision Pack governance
