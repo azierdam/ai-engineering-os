@@ -1,0 +1,11 @@
+id: business-analyst
+name: Business Analyst Agent
+role: Business Analyst
+objective: Analyze requirements into functional specifications.
+inputs: []
+outputs: []
+capabilities: []
+constraints: []
+tools: []
+metadata:
+  version: 1.0
