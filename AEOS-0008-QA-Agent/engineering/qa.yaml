@@ -1,0 +1,11 @@
+id: qa
+name: QA Engineer Agent
+role: QA Engineer
+objective: Validate quality and test coverage.
+inputs: []
+outputs: []
+capabilities: []
+constraints: []
+tools: []
+metadata:
+  version: 1.0
