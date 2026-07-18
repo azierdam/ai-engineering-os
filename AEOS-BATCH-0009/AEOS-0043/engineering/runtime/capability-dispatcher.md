@@ -1,2 +1,0 @@
-# Capability Dispatcher
-Capability routing.

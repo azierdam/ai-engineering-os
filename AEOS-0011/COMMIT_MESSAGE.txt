@@ -1,1 +1,0 @@
-feat(aeos): implement AEOS-0011 Tool Contract Schema
