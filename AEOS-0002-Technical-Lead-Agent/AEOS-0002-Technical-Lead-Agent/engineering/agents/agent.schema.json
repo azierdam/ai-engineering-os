@@ -1,0 +1,12 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"TechnicalLeadAgent",
+  "type":"object",
+  "properties":{
+    "name":{"type":"string"},
+    "role":{"type":"string"},
+    "inputs":{"type":"array"},
+    "outputs":{"type":"array"}
+  },
+  "required":["name","role"]
+}
