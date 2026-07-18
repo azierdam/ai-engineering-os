@@ -1,6 +1,0 @@
-version: 1
-runtime:
-  environment: production
-  schema_version: 1
-agents:
-  registry: schemas/agents
