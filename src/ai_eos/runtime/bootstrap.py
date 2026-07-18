@@ -1,5 +1,7 @@
 from .composition_root import CompositionRoot
-
-def create_runtime()->dict[str,object]:
+from .service_registry import ServiceRegistry
+from .container import Container
+def create_runtime():
     root=CompositionRoot()
-    return root.build()
+    registry=ServiceRegistry()
+    return {"root":root,"registry":registry,"container":Container(registry)}
