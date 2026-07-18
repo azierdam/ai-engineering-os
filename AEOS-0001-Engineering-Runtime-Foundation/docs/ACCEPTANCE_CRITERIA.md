@@ -1,0 +1,3 @@
+- Runtime directories exist
+- README files added
+- Repository ready for implementation assets
