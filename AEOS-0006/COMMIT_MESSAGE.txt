@@ -1,0 +1,1 @@
+feat(aeos): implement AEOS-0006 Agent Registry Validation
