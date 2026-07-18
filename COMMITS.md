@@ -1,12 +1,12 @@
-feat(runtime): add agent factory
-feat(runtime): add capability manager
-feat(runtime): add workflow builder
-feat(runtime): add execution context
-feat(runtime): add memory provider
-feat(runtime): add artifact provider
-feat(runtime): add event dispatcher
-feat(runtime): add service locator
-feat(runtime): add lifecycle manager
-feat(runtime): add runtime container
-test(runtime): add delivery 0007 tests
-docs: add delivery 0007 notes
+feat(runtime): add dependency container
+feat(runtime): add service registry
+feat(runtime): add agent resolver
+feat(runtime): add capability resolver
+feat(runtime): add execution pipeline
+feat(runtime): add message bus
+feat(runtime): add configuration store
+feat(runtime): add state store
+feat(runtime): add runtime hooks
+feat(runtime): add startup
+test(runtime): add delivery 0008 tests
+docs: add delivery 0008 notes

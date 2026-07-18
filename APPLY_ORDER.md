@@ -1,1 +1,3 @@
-Extract to repository root. Commit each source file separately, then tests, docs, and push.
+Extract into the repository root.
+Commit each source file separately in COMMITS.md order.
+Then commit tests, docs, and push once.
