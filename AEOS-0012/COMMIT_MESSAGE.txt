@@ -1,0 +1,1 @@
+feat(aeos): implement AEOS-0012 Prompt Template Schema
