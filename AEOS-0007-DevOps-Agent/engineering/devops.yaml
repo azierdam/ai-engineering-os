@@ -1,0 +1,11 @@
+id: devops
+name: DevOps Engineer Agent
+role: DevOps Engineer
+objective: Automate build, release and operations.
+inputs: []
+outputs: []
+capabilities: []
+constraints: []
+tools: []
+metadata:
+  version: 1.0
